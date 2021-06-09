@@ -42,6 +42,7 @@ def remove_stopwords(text):
     stopwordsList.append('a')
     stopwordsList.append('also')
     stopwordsList.append('rt')
+    stopwordsList.append('br')
     words = [w for w in text if w not in stopwordsList]
     return words
 
