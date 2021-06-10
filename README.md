@@ -41,4 +41,4 @@ LDA models (LDAMulticore) was used for topic modelling and vizualization was don
 
 ### 4. Keywords Extraction using Distilbert
 Distilbert is used as it has shown great performance in similarity tasks, which is what we are aiming for with keyword/keyphrase extraction.
-To find the candidates that are most similar to the document. We assume that the most similar candidates to the document are good keywords/keyphrases for representing the document and the keywords are thus got from the candidates.
+To find the candidates that are most similar to the document. The most similar candidates to the document are good keywords for representing each review and the keywords are thus got from the candidates.
