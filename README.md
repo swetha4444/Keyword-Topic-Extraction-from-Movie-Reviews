@@ -17,7 +17,7 @@ This is a dataset for binary sentiment classification containing substantially m
   <li>PyLDAViz</li>
 </ul>
 
-## Project Process
+## Steps involved in the project
 ### 1. Pre-processing
 <ul>
   <li>Remove stop-words with NLTK</li>
