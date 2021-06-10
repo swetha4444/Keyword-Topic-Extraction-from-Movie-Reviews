@@ -1,4 +1,4 @@
-# Keyword-Topic-Extraction-from-Movie-Reviews
+# Keyword and Topic Extraction from Movie Reviews
 
 ## Dataset
 **Large Movie Review Dataset:**
