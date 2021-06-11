@@ -37,7 +37,8 @@ This is a dataset for binary sentiment classification containing substantially m
 Created a dictionatry and a corpus with the review text. 
 LDA model (LDAMulticore) was used for topic modelling and vizualization was done using PyLDAViz library.
 
-![screencapture-file-C-Users-ADMIN-Desktop-Swetha-Academics-Keyword-Topic-Extraction-from-Movie-Reviews-LdaModel-viz-html-2021-06-10-17_30_30](https://user-images.githubusercontent.com/68152189/121521405-a667b000-ca11-11eb-89bd-56307acf5c25.png)
+![screencapture-file-C-Users-ADMIN-Desktop-Swetha-Academics-Keyword-Topic-Extraction-from-Movie-Reviews-Lda-viz-html-2021-06-11-18_43_39](https://user-images.githubusercontent.com/68152189/121691850-15fa9f80-cae5-11eb-85b9-a3a39f28e85d.png)
+
 
 ### 4. Keywords Extraction using Distilbert
 Distilbert is used as it has shown great performance in similarity tasks, which is what we are aiming for with keywords extraction.
