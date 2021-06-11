@@ -81,5 +81,5 @@ dataframe.processed_text = dataframe.processed_text.apply(lambda x: word_lemmati
 dataframe.processed_text = dataframe.processed_text.apply(lambda elem: re.sub(r"([0-9]+)", "", elem))
 
 # Convert into a single CSV file.
-dataframe.to_csv('./clean_reviews2.csv', index=False)
+dataframe.to_csv('./clean_reviews.csv', index=False)
 print("CVS file is created")
